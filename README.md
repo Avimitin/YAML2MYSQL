@@ -21,7 +21,7 @@ password: 123456
 - Open bash and install dependence.
 
 ```bash
-pip3 install pyyaml mysql-connector-python -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip3 install -r ./requirement.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ``` 
 
 - RUN

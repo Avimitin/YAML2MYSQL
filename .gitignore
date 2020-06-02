@@ -1,6 +1,3 @@
-venv/Include
-venv/Lib
-venv/Scripts
-venv/pyvenv.cfg
+venv/
 .idea
-venv/cfg.yml
+cfg.yml
